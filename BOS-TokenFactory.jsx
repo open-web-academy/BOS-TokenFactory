@@ -26,7 +26,7 @@ const pills = [
   { id: "tokenlist", title: "Token List" },
 ];
 
-// Validation to obtain the account we are connected to the component with
+// Validation to obtain the account we are connected to the component
 if (!sender) {
   const accounts = Ethers.send("eth_requestAccounts", []);
   if (accounts.length) {
