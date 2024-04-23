@@ -126,4 +126,4 @@ Finally we can go to the "Token List" tab where we can see all the tokens create
 
 ## BOS Widget
 
-Swap: https://near.social/owa-is-bos.near/widget/BOS-TokenFactory
+Token Factory: https://near.social/owa-is-bos.near/widget/BOS-TokenFactory
